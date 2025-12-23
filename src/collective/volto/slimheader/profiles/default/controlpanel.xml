@@ -15,7 +15,7 @@
         icon_expr=""
         visible="True"
         i18n:attributes="title">
-        <permission>Manage portal</permission>
+        <permission>collective.volto.slimheader: ManageSettings</permission>
     </configlet>
 
 </object>
