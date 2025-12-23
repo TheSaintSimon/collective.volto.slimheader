@@ -5,9 +5,10 @@
     >
 
   <configure zcml:condition="installed AccessControl.security">
-    <!-- -*- extra stuff goes here -*- -->
-
-
+    <permission
+        id="collective.volto.slimheader.ManageSettings"
+        title="collective.volto.slimheader: ManageSettings"
+    />
   </configure>
 
 </configure>
