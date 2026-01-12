@@ -5,8 +5,8 @@ Changelog
 1.0.3 (unreleased)
 ------------------
 
-- Changed control panel for site administrator permissions
-   [simone]
+- Update permission settings to allow site administrators to access the control panel
+   [thesaintsimon]
 
 
 1.0.2 (2024-12-12)
