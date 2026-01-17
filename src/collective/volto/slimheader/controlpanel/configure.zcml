@@ -9,7 +9,7 @@
       name="slimheader-settings"
       for="Products.CMFPlone.interfaces.IPloneSiteRoot"
       class=".slimheader.SlimHeader"
-      permission="cmf.ManagePortal"
+      permission="collective.volto.slimheader.ManageSettings"
       layer="collective.volto.slimheader.interfaces.ICollectiveVoltoSlimheaderLayer"
       />
 

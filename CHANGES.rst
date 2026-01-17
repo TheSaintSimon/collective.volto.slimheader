@@ -2,10 +2,11 @@ Changelog
 =========
 
 
-1.0.3 (unreleased)
+2.0.0 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Update permission settings to allow site administrators to access the control panel
+   [thesaintsimon]
 
 
 1.0.2 (2024-12-12)
